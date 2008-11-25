@@ -1,0 +1,9 @@
+rocl - a Ruby Object Constraint Language
+
+Based on ideas from OMG's OCL.
+
+* Provides a framework for specifying constraints on objects using a constraint-based language similar to OCL.
+* Same query expressions can be used to generate SQL queries on objects as mapped to SQL/table oriented database.
+
+More to come.
+
